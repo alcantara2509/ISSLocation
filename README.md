@@ -1,6 +1,6 @@
-## International Space Station Real Time Location
+# International Space Station Real Time Location
 
-Projeto criado utilizando #React e #Redux, retorna a localização em tempo real da estação espacial internacional através da API ISSLocation. 
+### Projeto criado utilizando `React` e `Redux`, retorna a localização em tempo real da estação espacial internacional através da API ISSLocation. 
 
 # Getting Started with Create React App
 
